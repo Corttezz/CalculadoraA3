@@ -37,4 +37,10 @@ SEJAM BEM VINDOS AO PROJETO
   <img src="https://user-images.githubusercontent.com/106662629/207655067-a5b719c9-bd9e-46a1-abc4-29e73ab75105.png"/>
 </p>
 
-- Com todos dados preenchidos corretamente, todas as informações serão armazenadas em um banco de dados local.
+
+### Tela onde ficam armazedados as informações, utilizando o MySQL
+
+- Após clicar em 'GERAR ORÇAMENTO', a informação do valor a ser cobrado do Software será exibido na tela e serão armazenados em um banco de dados local as seguintes informações: ID, Valor Total do Orçamento, Total de Horas para realizar a criação do Software.
+ <p align="center">
+  <img src="https://github.com/vinicciusnev/CalculadoraA3/blob/main/test/Captura%20de%20tela%202022-12-14%20141423.png?raw=true"/>
+</p>
